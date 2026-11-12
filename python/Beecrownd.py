@@ -4,7 +4,7 @@ def b1007():
     c = int(input())
     d = int(input())
     diferenca = a * b - c * d
-    print("DIFERENCA =".format(diferenca))
+    print("DIFERENCA = {}".format(diferenca))
 def b1008():
     a = int(input())
     b = int(input())
